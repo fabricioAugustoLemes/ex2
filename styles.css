@@ -1,0 +1,17 @@
+
+
+body {
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(71, 71, 71), rgb(0, 0, 0)90%);
+    text-align: center;
+    
+
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(2, 1, 70, 0.616);
+}
